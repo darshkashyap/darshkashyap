@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hey, I'm **Darsh Kashyap**
 
-<!--
-**darshkashyap/darshkashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer (In Progress) | B.Tech CSE Student  
+I'm a **17-year-old** first-year **B.Tech CSE** student at **Galgotias University, Greater Noida**, passionate about modern web development and building real-world applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🎓 **1st year B.Tech CSE**
+- 💻 Working on a **Full-Stack Clothing Selling App**
+- 🌱 Currently learning **TypeScript**
+- 🎯 Goal: Become a top-tier full-stack developer
+- 🧠 Love building clean, fast, responsive UIs
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### **Frontend**
+- HTML  
+- CSS  
+- JavaScript  
+- TypeScript  
+- React.js  
+- Tailwind CSS  
+
+### **Backend & Database**
+- MongoDB  
+
+---
+
+## 🌐 Connect With Me  
+🔗 **LinkedIn:** https://www.linkedin.com/in/darsh-kashyap-020163369/  
+🔗 **Twitter (X):** https://x.com/imustbedarsh  
+
+---
+
+## 📌 Current Focus  
+- Building a **full-stack clothing store**
+- Learning **TypeScript**
+- Improving backend APIs and database structures
+- Sharpening UI/UX skills with React + Tailwind
