@@ -1,42 +1,64 @@
-# 👋 Hey, I'm **Darsh Kashyap**
+# ⭐ Darsh Kashyap
 
-### 🚀 Full-Stack Developer (In Progress) | B.Tech CSE Student  
-I'm a **17-year-old** first-year **B.Tech CSE** student at **Galgotias University, Greater Noida**, passionate about modern web development and building real-world applications.
-
----
-
-## 🔥 About Me
-- 🎓 **1st year B.Tech CSE**
-- 💻 Working on a **Full-Stack Clothing Selling App**
-- 🌱 Currently learning **TypeScript**
-- 🎯 Goal: Become a top-tier full-stack developer
-- 🧠 Love building clean, fast, responsive UIs
+### 👨‍💻 First-year B.Tech CSE Student @ Galgotias University  
+### 🛍️ Currently building a Full-Stack Clothes Selling App  
+### 🧠 17 y/o Developer | Learning TypeScript
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🚀 Tech Stack & Skills  
+(All icons are 100% visible in dark mode ✔)
 
 ### **Frontend**
-- HTML  
-- CSS  
-- JavaScript  
+<p align="left">
+  <!-- Tailwind (white) -->
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-light.svg" width="50" />
+
+  <!-- HTML (white) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="50" style="filter: invert(1);" />
+
+  <!-- CSS (white) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="50" style="filter: invert(1);" />
+
+  <!-- JS (white) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="filter: invert(1);" />
+
+  <!-- React (white) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" style="filter: invert(1);" />
+</p>
+
+### **Backend**
+<p align="left">
+
+  <!-- Express (white icon) -->
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/express.svg" width="60"/>
+
+  <!-- MongoDB (white) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" style="filter: invert(1);" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
 - TypeScript  
-- React.js  
-- Tailwind CSS  
-
-### **Backend & Database**
-- MongoDB  
+- Advanced React UI patterns  
+- Backend architecture (Node.js, Express, MongoDB)
 
 ---
 
-## 🌐 Connect With Me  
-🔗 **LinkedIn:** https://www.linkedin.com/in/darsh-kashyap-020163369/  
-🔗 **Twitter (X):** https://x.com/imustbedarsh  
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://x.com/imustbedarsh" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" style="filter: invert(1);" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/darsh-kashyap-020163369/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" style="filter: invert(1);" />
+  </a>
+</p>
 
 ---
 
-## 📌 Current Focus  
-- Building a **full-stack clothing store**
-- Learning **TypeScript**
-- Improving backend APIs and database structures
-- Sharpening UI/UX skills with React + Tailwind
+
