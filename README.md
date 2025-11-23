@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Tech Stack & Skills  
-(All icons are 100% visible in dark mode ✔)
+
 
 ### **Frontend**
 <p align="left">
